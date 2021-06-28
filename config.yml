@@ -1,0 +1,365 @@
+Prefix: '&8&l[&c&lKills&a&lRewards&8&l]'
+enable: true
+enable-worlds: 
+- world
+- ALL
+
+bat: 
+  enable: true
+  message: false
+  give-money: 2
+  message-text: '&aYou have killed a bat!'
+bee:
+  enable: true
+  message: false
+  give-money: 3
+  message-text: '&aYou have killed a bee!'
+blaze: 
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a blaze!'
+cat:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a cat!'
+cave-spider:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a cave spider!'
+chicken:  
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a chicken!'
+cod: 
+  enable: true
+  message: true
+  give-money: 1
+  message-text: '&aYou have killed a cod!'
+cow: 
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a cow!'
+creeper:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a creeper!'
+dolphin:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a dolphin!'
+donkey:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a donkey!'
+drowned:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a drowned!'
+elder_guardian:
+  enable: true
+  message: true
+  give-money: 5
+  message-text: '&aYou have killed a elder guardian!'
+enderman:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a enderman!'
+endermite:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a endermite!'
+ender_dragon:
+  enable: true
+  message: true
+  give-money: 100
+  message-text: '&aYou have killed a enderdragon!'
+evoker:
+  enable: true
+  message: true
+  give-money: 5
+  message-text: '&aYou have killed a evoker!'
+fox:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a fox!'
+ghast:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a ghast!'
+giant:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a giant!'
+guardian:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a guardian!'
+hoglin:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a hoglin!'
+horse:
+  enable: true
+  message: true
+  give-money: 1
+  message-text: '&aYou have killed a horse!'
+husk:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a husk!'
+illusioner:
+  enable: true
+  message: true
+  give-money: 5
+  message-text: '&aYou have killed a illusioner!'
+iron_golem:
+  enable: true
+  message: true
+  give-money: 6
+  message-text: '&aYou have killed a iron golem!'
+llama:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a llama!'
+magma_cube:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a magma cube!'
+mule:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a mule!'
+mushroom_cow:
+  enable: true
+  message: true
+  give-money: 7
+  message-text: '&aYou have killed a mushroom cow!'
+ocelot:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a ocelot!'
+panda:
+  enable: true
+  message: true
+  give-money: 6
+  message-text: '&aYou have killed a panda!'
+parrot:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a parrot!'
+phantom:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a phantom!'
+pig:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a pig!'
+piglin:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a piglin!'
+piglin_brute:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a piglin brute!'
+pillager:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a pillager!'
+player:
+  enable: true
+  message: true
+  give-money: 10
+  give-levels-xp: 4
+  message-text: '&aYou have killed a %entity%!'
+polar_bear:
+  enable: true
+  message: true
+  give-money: 6
+  message-text: '&aYou have killed a polar bear!'
+pufferfish:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a pufferfish!'
+rabbit:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a rabbit!'
+ravager:
+  enable: true
+  message: true
+  give-money: 8
+  message-text: '&aYou have killed a ravager!'
+salmon:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a salmon!'
+sheep:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a sheep!'
+shulker:
+  enable: true
+  message: true
+  give-money: 5
+  message-text: '&aYou have killed a shulker!'
+silverfish:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a silverfish!'
+skeleton:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a skeleton!'
+skeleton-horse:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a skeleton horse!'
+slime:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a slime!'
+snowman:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a snowman!'
+spider:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a spider!'
+squid:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a squid!'
+stray:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a stray!'
+strider:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a strider!'
+trader_llama:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a trader llama!'
+tropical_fish:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a tropical fish!'
+turtle:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a turtle!'
+vex:
+  enable: true
+  message: true
+  give-money: 2
+  message-text: '&aYou have killed a vex!'
+villager:
+  enable: true
+  message: true
+  give-money: 5
+  message-text: '&aYou have killed a villager!'
+vindicator:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a vindicator!'
+wandering_trader:
+  enable: true
+  message: true
+  give-money: 5
+  message-text: '&aYou have killed a wandering trader!'
+witch:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a witch!'
+wither:
+  enable: true
+  message: true
+  give-money: 110
+  message-text: '&aYou have killed a wither!'
+wither_skeleton:
+  enable: true
+  message: true
+  give-money: 7
+  message-text: '&aYou have killed a wither skeleton!'
+wolf:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a wolf!'
+zoglin:
+  enable: true
+  message: true
+  give-money: 3
+  message-text: '&aYou have killed a zoglin!'
+zombie:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a zombie!'
+zombie_horse:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a zombie horse!'
+zombie_villager:
+  enable: true
+  message: true
+  give-money: 5
+  message-text: '&aYou have killed a zombie villager!'
+zombified_piglin:
+  enable: true
+  message: true
+  give-money: 4
+  message-text: '&aYou have killed a zombified piglin!'
+  
+Bounty-Hunters:
+- example

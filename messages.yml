@@ -1,0 +1,19 @@
+#This configuration file is for all the messages of the plugin remember that if you find a message that cannot be changed, do not forget to say it in spigot
+
+####################################
+# 	   MESSAGES PLUGIN             #
+####################################
+
+no-permission: '&cYou do not have permissions to execute this command.'
+bounty-hunter: '&e%killer% has started the hunt as a bounty hunter.'
+reload-message: '&aConfiguration files have been reloaded.'
+not-exit-mob: '&cThat mob does not exist or is not registered in the config!'
+reward-per-mob: '&b%entity% &7= &a$%value%'
+command-help: '&cDo "&7/kr help&c" to get help.'
+already-bounty-hunter: '&cYou are already a bounty hunter.!'
+become-bounty-hunter: '&aYou have become a bounty hunter.!'
+player-new-bounty-hunter-broadcast: '&e%player% &7has become a bounty hunter.'
+use-correct-rewards: '&cTo use correctly you must do &7/kr rewards <&emob name&7>'
+bounty-hunter-kill-bounty-hunter: '&cYou killed a bounty hunter!!'
+player-kill-bounty-hunter: '&aYou killed a bounty hunter!'
+start-bounty-hunter: '&e%player% &7has started the hunt'
